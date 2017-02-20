@@ -1,0 +1,24 @@
+/*---MAP---*/
+.map{
+    position: relative;
+    margin-top: 210px;
+}
+    .map__point{
+        position: absolute;
+        left: 45%;
+        top: -65px;
+        width: 130pxs;
+    }
+/*---FOOTER---*/
+.footer__nav{
+    margin: 80px 0 60px;
+}
+    .footer-nav__link{
+        padding: 10px 25px;
+        color: black;
+        border: 0;
+    }
+        .footer-nav__link:hover{
+            border: 0;
+            color: #a84a3e;
+        }

@@ -1,0 +1,144 @@
+/*-------MENU-------*/
+/*---MENU TITLE---*/
+.menu__title{
+    margin-top: 78px;
+}
+/*---MENU TEXT---*/
+.menu__text-intro{
+    margin: 28px 0;
+}
+    .text-uppercase{
+        font-family: 'RobotoRegular', sans-serif, Arial;
+        text-transform: uppercase;
+        font-weight: 600;
+        font-size: .796em;
+        color: #989898;
+    }/*общие стили*/
+/*---MENU BUTTON---*/
+.menu__button{
+    margin: 0 auto;
+}
+    .menu__button-list{
+        display: -webkit-box;
+        display: -webkit-flex;
+        display: -ms-flexbox;
+        display: flex;
+
+        -webkit-box-pack: center;
+        -webkit-justify-content: center;
+        -ms-flex-pack: center;
+        justify-content: center;
+
+        -webkit-flex-wrap: wrap;
+        -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+    }
+        .menu__button-item{
+            margin: 55px 60px;
+        }
+            .menu__button-link{
+                display: inline-block;
+                width: 120px;
+                height: 110px;
+                background: url('../../images/menu-img/menu-icon.png') no-repeat 29px 37px ;
+
+                z-index: 999;
+                border:solid 3px black;
+                border-radius: 50%;
+
+                -webkit-transition: border .5s;
+                transition: border .5s;
+            }
+                .menu__button-link:hover{
+                    border:solid 3px #a84a3e;
+                }
+/*---BUTTON---*/
+.button__beverages{
+    background-position: 24px -59px;
+}
+    .button__wines{
+        background-position: 29px -165px;
+    }
+/*---MENU SUBMENU---*/
+.menu__submenu{
+    height: 500px;
+    overflow: hidden;
+}
+    .menu__submenu-list{
+        display: -webkit-box;
+        display: -webkit-flex;
+        display: -ms-flexbox;
+        display: flex;
+
+        -webkit-flex-wrap: wrap;
+        -ms-flex-wrap: wrap;
+        flex-wrap: wrap;
+    }
+        .menu__submenu-item{
+            width: 42%;
+            display: -webkit-box;
+            display: -webkit-flex;
+            display: -ms-flexbox;
+            display: flex;
+            border-bottom: dotted 2px #b8b8b8;
+        }
+            .menu__submenu-item:nth-child(odd){
+                margin-right: 15%;
+            }
+                .menu__submenu-wrap{
+                    width: 100%;
+                    margin-top:75px;
+                    text-align: left;
+                }
+                    .menu__submenu-icon{
+                        height: 160px;
+                        max-width: 160px;
+                        margin:50px 19px 50px 0;
+                        border-radius: 50%;
+                    }
+                        .menu__submenu-name{
+                            font-family: RobotoMedium,sans-serif,Arial;
+                            letter-spacing: .05em;
+                        }
+                            .menu__submenu-composition{
+                                margin-top: 20px;
+                                font-family: RobotoRegular, sans-serif, Arial;
+                                color: #818181;
+                                font-weight: 600;
+                                font-size: .8em;
+                            }
+                                .menu__submenu-price{
+                                    margin-top: 25px;
+                                    font-family: Lobster, sans-serif, Arial;
+                                    font-size: 1.9em;
+                                }
+                                    .menu__submenu-price-old{
+                                        margin-right: 10px;
+                                        text-decoration: line-through;
+                                        color: #dadada;
+                                    }
+                                        .menu__submenu-price-new{
+                                            color: #a84a3e;
+                                        }
+                                            .menu__submenu-button{
+                                                display: inline-block;
+                                                margin: 75px 0 auto;
+                                                padding: 15px 45px;
+
+                                                border: solid 3px #000000;
+                                                border-radius: 10px;
+                                                cursor: pointer;
+
+                                                font-family: 'RobotoMedium',sans-serif,Arial;
+                                                text-transform: uppercase;
+                                                font-size: .9em;
+                                                font-weight: 600;
+
+                                                -webkit-transition: border .3s;
+
+                                                transition: border .3s;
+
+                                            }
+                                                .menu__submenu-button:hover{
+                                                    border: solid 3px #a84a3e;
+                                                }

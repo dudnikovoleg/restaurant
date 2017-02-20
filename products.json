@@ -1,0 +1,176 @@
+[
+  {
+    "id": "button__meat",
+    "name": "Fresh salad simple",
+    "composition":"tomatoes,  cucumber,  fresh lettuce,  olives",
+    "newPrice": "25,99",
+    "oldPrice":"29,99",
+    "icon":"images/menu-img/meat-menu.jpg"
+  },
+  {
+    "id": "button__meat",
+    "name": "Fresh salad simple",
+    "composition":"tomatoes,  cucumber,  fresh lettuce,  olives",
+    "newPrice": "25,99",
+    "oldPrice":"29,99",
+    "icon":"images/menu-img/meat-menu.jpg"
+  },
+  {
+    "id": "button__meat",
+    "name": "Fresh salad simple",
+    "composition":"tomatoes,  cucumber,  fresh lettuce,  olives",
+    "newPrice": "25,99",
+    "oldPrice":"29,99",
+    "icon":"images/menu-img/meat-menu.jpg"
+  },
+  {
+    "id": "button__meat",
+    "name": "Fresh salad simple",
+    "composition":"tomatoes,  cucumber,  fresh lettuce,  olives",
+    "newPrice": "25,99",
+    "oldPrice":"29,99",
+    "icon":"images/menu-img/meat-menu.jpg"
+  },
+  {
+    "id": "button__meat",
+    "name": "стейк на кости",
+    "composition":"fresh meat, olive oil, tomatoes",
+    "newPrice": "29,99",
+    "oldPrice":"19,99",
+    "icon":"images/menu-img/meat-menu.jpg"
+  },
+  {
+    "id": "button__meat",
+    "name": "стейк на кости",
+    "composition":"fresh meat, olive oil, tomatoes",
+    "newPrice": "29,99",
+    "oldPrice":"19,99",
+    "icon":"images/menu-img/meat-menu.jpg"
+  },
+  {
+    "id": "button__meat",
+    "name": "стейк на кости",
+    "composition":"fresh meat, olive oil, tomatoes",
+    "newPrice": "29,99",
+    "oldPrice":"19,99",
+    "icon":"images/menu-img/meat-menu.jpg"
+  },
+
+
+  {
+    "id": "button__wines",
+    "name": "винцо",
+    "composition":"fresh meat, olive oil, tomatoes",
+    "newPrice": "29,99",
+    "oldPrice":"19,99",
+    "icon":"images/menu-img/wine-menu.jpg"
+  },
+  {
+    "id": "button__wines",
+    "name": "винцо",
+    "composition":"fresh meat, olive oil, tomatoes",
+    "newPrice": "29,99",
+    "oldPrice":"19,99",
+    "icon":"images/menu-img/wine-menu.jpg"
+  },
+  {
+    "id": "button__wines",
+    "name": "винцо",
+    "composition":"fresh meat, olive oil, tomatoes",
+    "newPrice": "29,99",
+    "oldPrice":"19,99",
+    "icon":"images/menu-img/wine-menu.jpg"
+  },
+  {
+    "id": "button__wines",
+    "name": "винцо",
+    "composition":"fresh meat, olive oil, tomatoes",
+    "newPrice": "29,99",
+    "oldPrice":"19,99",
+    "icon":"images/menu-img/wine-menu.jpg"
+  },
+  {
+    "id": "button__wines",
+    "name": "винцо",
+    "composition":"fresh meat, olive oil, tomatoes",
+    "newPrice": "29,99",
+    "oldPrice":"19,99",
+    "icon":"images/menu-img/wine-menu.jpg"
+  },
+
+  {
+    "id": "button__wines",
+    "name": "винцо",
+    "composition":"fresh meat, olive oil, tomatoes",
+    "newPrice": "29,99",
+    "oldPrice":"19,99",
+    "icon":"images/menu-img/wine-menu.jpg"
+  },
+  {
+    "id": "button__wines",
+    "name": "винцо",
+    "composition":"fresh meat, olive oil, tomatoes",
+    "newPrice": "29,99",
+    "oldPrice":"19,99",
+    "icon":"images/menu-img/wine-menu.jpg"
+  },
+
+
+  {
+    "id": "button__beverages",
+    "name": "ситро ",
+    "composition":"fresh meat, olive oil, tomatoes",
+    "newPrice": "29,99",
+    "oldPrice":"19,99",
+    "icon":"images/menu-img/beverages-menu.jpg"
+  },
+  {
+    "id": "button__beverages",
+    "name": "ситро ",
+    "composition":"fresh meat, olive oil, tomatoes",
+    "newPrice": "29,99",
+    "oldPrice":"19,99",
+    "icon":"images/menu-img/beverages-menu.jpg"
+  },
+  {
+    "id": "button__beverages",
+    "name": "ситро ",
+    "composition":"fresh meat, olive oil, tomatoes",
+    "newPrice": "29,99",
+    "oldPrice":"19,99",
+    "icon":"images/menu-img/beverages-menu.jpg"
+  },
+  {
+    "id": "button__beverages",
+    "name": "ситро ",
+    "composition":"fresh meat, olive oil, tomatoes",
+    "newPrice": "29,99",
+    "oldPrice":"19,99",
+    "icon":"images/menu-img/beverages-menu.jpg"
+  },
+  {
+    "id": "button__beverages",
+    "name": "ситро ",
+    "composition":"fresh meat, olive oil, tomatoes",
+    "newPrice": "29,99",
+    "oldPrice":"19,99",
+    "icon":"images/menu-img/beverages-menu.jpg"
+  },
+  {
+    "id": "button__beverages",
+    "name": "ситро ",
+    "composition":"fresh meat, olive oil, tomatoes",
+    "newPrice": "29,99",
+    "oldPrice":"19,99",
+    "icon":"images/menu-img/beverages-menu.jpg"
+  },
+  {
+    "id": "button__beverages",
+    "name": "ситро ",
+    "composition":"fresh meat, olive oil, tomatoes",
+    "newPrice": "29,99",
+    "oldPrice":"19,99",
+    "icon":"images/menu-img/beverages-menu.jpg"
+  }
+
+]

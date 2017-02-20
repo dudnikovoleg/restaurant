@@ -1,0 +1,94 @@
+/*---- RESERVATION ----*/
+.reservation{
+    margin-top: 140px;
+    background: url("../../images/reservation-bg.png") center no-repeat;
+    background-size: cover;
+}
+/*---- RESERVATION TITLE----*/
+.reservation__name {
+    padding-top: 60px;
+}
+.reservation__title-name,
+.reservation__text-intro
+{
+    color: #ffffff;
+}
+/*---- RESERVATION PHONE----*/
+.reservation__phone{
+    display: -ms-inline-flexbox;
+    display: -webkit-inline-box;
+    display: -webkit-inline-flex;
+    display: inline-flex;
+
+    margin-top: 70px;
+}
+    .reservation__phone-number{
+        padding: 40px;
+        color: #ffffff;
+        font-size: 1.2em;
+    }
+        .reservation__callback-icon{
+            display: inline-block;
+            min-width: 100px;
+            height: 100px;
+            background: #a84a3e;
+            border-radius: 50%;
+            cursor: pointer;
+        }
+            .reservation__callback-icon::before{
+                content: '';
+                display: inline-block;
+                width: 100px;
+                height: 100px;
+                background: url("../../images/phone-icon.png") no-repeat center;
+            }
+/*---- RESERVATION FORM----*/
+.reservation__input{
+    height: 60px ;
+    margin: 50px 10px;
+    padding-left: 10px;
+    width: 30%;
+
+    background: transparent;
+    border: solid 1px #959290;
+    border-radius: 10px;
+
+    color: #ffffff;
+    font-family: 'RobotoRegular', sans-serif, Arial;
+}
+    .reservation__input::-webkit-input-placeholder {
+        font-family: 'RobotoRegular', sans-serif, Arial;
+        color: #ffffff;
+    }
+    .reservation__input::-moz-placeholder{
+        font-family: 'RobotoRegular', sans-serif, Arial;
+        color: #ffffff;
+    }/* Firefox 19+ */
+    .reservation__input:-moz-placeholder   {
+        font-family: 'RobotoRegular', sans-serif, Arial;
+        color: #ffffff;
+    }/* Firefox 18- */
+    .reservation__input:-ms-input-placeholder {
+        font-family: 'RobotoRegular', sans-serif, Arial;
+        color: #ffffff;
+    }/*ie*/
+    /*--- RESERVATION BUTTON---*/
+.reservation__button{
+    padding: 16px 45px;
+    margin: 15px 0 70px;
+
+    font-family: 'RobotoMedium', sans-serif, Arial;
+    text-transform: uppercase;
+    color: #ffffff;
+
+    background: transparent;
+    border: solid 2px #ffffff ;
+    border-radius: 10px;
+
+    -webkit-transition: border .5s;
+    transition:  border .5s;
+    cursor: pointer;
+}
+    .reservation__button:hover{
+        border: solid 2px #a84a3e;
+    }
