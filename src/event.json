@@ -1,0 +1,26 @@
+[
+  {
+    "datetime":"2015-02-01",
+    "date":"1 february 2015",
+    "name": "wine Tasting",
+    "text":"Sed ut perspiciatis unde omnis iste natus error sit voluptatem ",
+    "icon":"images/event1-img.png",
+    "iconAlt":"wine Tasting"
+  },
+  {
+    "datetime":"2016-02-22",
+    "date":"22 february 2016",
+    "name": "chocolate event",
+    "text":"Sed ut perspiciatis unde omnis iste natus error sit voluptatem ste natus error sit voste natus error sit vo",
+    "icon":"images/event2-img.jpg",
+    "iconAlt":"chocolate event"
+  },
+  {
+    "datetime":"2017-02-18",
+    "date":"18 february 2017",
+    "name": "strawberry decoration",
+    "text":"Sed ut perspiciatis unde omnis iste natus error sit voluptatem ",
+    "icon":"images/event3-img.png",
+    "iconAlt":"strawberry decoration"
+  }
+]

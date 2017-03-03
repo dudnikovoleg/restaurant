@@ -1,0 +1,277 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta content="en">
+    <link rel="shortcut icon" href="images/favicon.png" type="image/x-icon" />
+    <meta name="Keywords" content="Primavera, oriental restaurant, reservation" />
+    <meta name="Description" content="The beasts restaurant in cit" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width"  >
+    <title> restaurant</title>
+
+    <link rel="stylesheet" href="css/reset.css">
+    <link rel="stylesheet" href="css/fonts.css">
+    <link rel="stylesheet" href="css/main_style/mainnano.css">
+    <link rel="stylesheet" href="css/media_query.css">
+
+
+    <script src="https://use.fontawesome.com/20b51f2d69.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.2/angular.min.js"></script>
+    <script src="script/menu_angular/mainCtrl.js"></script>
+    <script src="script/menu_angular/service.js"></script>
+    <script src="script/menu_button.js" async></script>
+
+    <!--[if lte IE 9]>
+        <script src="http://phpbbex.com/oldies/oldies.js" charset="utf-8"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.2/html5shiv.min.js"></script>
+    <![endif]-->
+</head>
+<body data-ng-app="myApp">
+<!--HEADER -->
+    <header class="header" id="home" >
+        <nav class="nav " >
+            <ul class="nav__list">
+                    <li class="nav__item">
+                        <a href="#" class="nav__link" title="home">home</a>
+                    </li>
+                    <li class="nav__item">
+                        <a href="#restaurant" class="nav__link" title="restaurant">restaurant</a>
+                    </li>
+                    <li class="nav__item">
+                        <a href="#menu" class="nav__link" title="menu">menu</a>
+                    </li>
+                    <li class="nav__item">
+                        <a href="#reservation" class="nav__link" title="reservation">reservation</a>
+                    </li>
+                    <li class="nav__item">
+                        <a href="#events" class="nav__link" title="events">events</a>
+                    </li>
+                    <li class="nav__item">
+                        <a href="#contact" class="nav__link" title="contact">contact</a>
+                    </li>
+                </ul>
+            </nav>
+        <div class="logo">
+                <h1 class="logo__name"> Primavera</h1>
+                <h2  class="logo__oriental"> oriental restaurant</h2>
+            </div>
+        <address class="social">
+                   <ul class="social__list">
+                       <li class="social__item ">
+                           <a href="#" class="social__link social__link-facebook" target="_blank" title="Facebook"></a>
+                       </li>
+                       <li class="social__item ">
+                           <a href="#" class="social__link social__link-twitter" target="_blank" title="Twitter"></a>
+                       </li>
+                       <li class="social__item ">
+                           <a href="#" class="social__link social__link-google" target="_blank" title="Google"></a>
+                       </li>
+
+                   </ul>
+            </address>
+        <div class="arrow">
+            <a href="#restaurant" title="restaurant">
+                <i class="fa fa-long-arrow-down fa-3x arrow__style" aria-hidden="true">
+
+                </i></a>
+            </div>
+        <div class="pagination">
+            <ul class="pagination__list">
+                <li class="pagination__item">
+                    <a href="#" class="pagination__link" title="home"> </a>
+                </li>
+                <li class="pagination__item">
+                    <a href="#restaurant" class="pagination__link" title="restaurant"></a>
+                </li>
+                <li class="pagination__item">
+                    <a href="#menu" class="pagination__link" title="menu"></a>
+                </li>
+                <li class="pagination__item">
+                    <a href="#reservation" class="pagination__link" title="reservation"></a>
+                </li>
+                <li class="pagination__item">
+                    <a href="#events" class="pagination__link" title="events"></a>
+                </li>
+                <li class="pagination__item">
+                    <a href="#contact" class="pagination__link" title="contact"></a>
+                </li>
+            </ul>
+        </div>
+    </header>
+<!--/ HEADER -->
+<!--RESTAURANT-->
+    <section class="restaurant wrap-param" id="restaurant">
+        <div class="restaurant__title ">
+            <h2 class="title-name">restaurant</h2>
+               <p class="restaurant__text-intro">
+                   Sed ut perspiciatis unde omnis iste natus error sit voluptatem accusantium doloremque laudantium,
+                    totam rem aperiam,
+                    eaque ipsa quae ab illo inventore veritatis et quasi architecto beatae vitae dicta sunt explicabo.
+                    Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit,
+                    sed quia consequuntur magni dolores eos qui.
+               </p>
+        </div>
+        <ul class="restaurant__originally-list">
+                <li class="restaurant__originally-item restaurant__originally-cooki ">
+                    <span class="restaurant__originally-hover">originally roasted coffee</span>
+                </li>
+                <li class="restaurant__originally-item restaurant__originally-coffy">
+                    <span class="restaurant__originally-hover"> originally roasted coffee</span>
+                </li>
+                <li class="restaurant__originally-item restaurant__originally-chilli ">
+                    <span class="restaurant__originally-hover">originally roasted coffee </span>
+                </li>
+            </ul>
+        <table class="restaurant__gallery" >
+            <tr class="restaurant__gallery-row">
+                <td class="restaurant__gallery-list"  rowspan="2">
+                    <img src="images/restaurant-img/restaurant-img1.jpg" alt="" class="restaurant__gallery-img">
+                </td>
+                <td class="restaurant__gallery-list">
+                    <img src="images/restaurant-img/restaurant-img2.jpg" alt="" class="restaurant__gallery-img">
+                </td>
+                <td class="restaurant__gallery-list">
+                    <img src="images/restaurant-img/restaurant-img3.jpg" alt="" class="restaurant__gallery-img">
+                </td>
+                <tr>
+                    <td class="restaurant__gallery-list" colspan="2">
+                        <img src="images/restaurant-img/restaurant-img4.jpg" alt="" class="restaurant__gallery-img">
+                    </td>
+                </tr>
+        </table>
+    </section>
+<!--/ RESTAURANT-->
+<!--MENU-->
+    <section class="menu wrap-param" id="menu"  data-ng-controller="MenuCtrl">
+        <div class="menu__title">
+            <h2 class=" menu__title-name title-name">menu</h2>
+                <p class="menu__text-intro text-uppercase" >
+                    showcase your site visitors the best menu,
+                    specialty restaurants to attract your potential customers
+                </p>
+        </div>
+        <div class="menu__button" >
+            <ul class="menu__button-list" >
+                <li class="menu__button-item">
+                    <a href="" class="menu__button-link button__meat" id="button__meat" data-ng-click="getId($event)" title="meat"></a>
+                </li>
+                <li class="menu__button-item">
+                    <a href="" class="menu__button-link button__beverages"  id="button__beverages" data-ng-click="getId($event)" title="beverages"></a>
+                </li>
+                <li class="menu__button-item">
+                    <a href="" class="menu__button-link button__wines"  id="button__wines" data-ng-click="getId($event)" title="wines"></a>
+                </li>
+            </ul>
+        </div>
+        <div class="menu__submenu" id="submenu">
+            <ul class="menu__submenu-list" >
+                <li class="menu__submenu-item" data-ng-repeat="menu in items">
+                    <img  class="menu__submenu-icon" data-ng-src="{{menu.icon}}"/>
+                    <div class="menu__submenu-wrap">
+                        <h3 class="menu__submenu-name">
+                            {{menu.name | uppercase}}
+                        </h3>
+                        <p class="menu__submenu-composition">
+                            {{menu.composition}}
+                        </p>
+                        <p class="menu__submenu-price">
+                            <span class="menu__submenu-price-old">
+                                 ${{menu.oldPrice}}
+                            </span>
+                            <span class="menu__submenu-price-new">
+                                ${{menu.newPrice}}
+                            </span>
+                        </p>
+                    </div>
+                </li>
+            </ul>
+        </div>
+        <span class="menu__submenu-button" id=menu-button>see more</span>
+    </section>
+<!--/ MENU-->
+<!--RESERVATION-->
+    <section class="reservation" id="reservation">
+        <div class="wrap-param">
+            <div class="reservation__name ">
+                <h2 class="reservation__title-name title-name ">reservation</h2>
+                    <p class=" reservation__text-intro text-uppercase">
+                        quick and easy to book a table by phone or reservation form
+                    </p>
+            </div>
+            <address class="reservation__phone">
+                <p class="reservation__phone-number">
+                    +380980000000
+                </p>
+                    <span class="reservation__callback-icon" id="callback"> </span>
+                <p class="reservation__phone-number">
+                    +380980000000
+                </p>
+            </address>
+            <!-- валидация и отправка формы-->
+            <!-- время работы ресторана с 09-00 до 21-00 -->
+            <form class="reservation__form" action="#" name="formReserv" accept-charset="utf-8" enctype="text/plain">
+                <input class="reservation__input "  type="text"  placeholder="Name"  >
+                <input class="reservation__input " type="number"  placeholder="Day" required>
+                <input class="reservation__input " type="number"  placeholder="Hour" required>
+                <input class="reservation__button" type="submit" value="book a table">
+            </form>
+        </div>
+</section>
+<!--/ RESERVATION-->
+<!--EVENTS-->
+<section class="events wrap-param" id="events"  data-ng-controller="EventCtrl">
+      <div class="events__name ">
+        <h2 class="events__title-name title-name ">events</h2>
+        <p class=" events__text-intro text-uppercase">
+            Present in an elegant way events in your restaurant, to encourage visitors to visit
+        </p>
+    </div>
+        <div class="events__list-wrap">
+            <div class="events__list" data-ng-repeat="event in itemsEvent">
+                <img class="events__list-icon" data-ng-src="{{event.icon}}" alt="{{event.iconAlt}}"  >
+                <div  class="events__list-description">
+                    <time class="events__list-time" datetime="{{event.dateTime}}">{{event.date | uppercase}}</time>
+                    <h3 class="events__list-name"> {{event.name | uppercase}}</h3>
+                    <p class="events__list-text">{{event.text}}</p>
+                </div>
+            </div>
+        </div>
+</section>
+<!--/ EVENTS-->
+<!--MAP and FOOTER-->
+<section class="contact" id="contact">
+<div  class="map">
+    <img class="map__point" src="images/map-point.png" alt="Карта">
+    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d44963.57415108861!2d-42.85956281574972!3d-5.062198625003197!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x78e39bb62d46c79%3A0xcfbbe8f01b9af8d7!2zUHJpbWF2ZXJhLCDQotC10YDQtdC30LjQvdCwIC0g0J_QuNCw0YPQuCwg0JHRgNCw0LfQuNC70LjRjw!5e0!3m2!1sru!2sua!4v1487182068686"
+            width="100%" height="330" frameborder="0" style="border:0" allowfullscreen>
+    </iframe>
+</div>
+<footer class="footer">
+    <nav class="nav footer__nav">
+        <ul class="nav__list">
+            <li class="footer-nav__item">
+                <a href="#home" class="nav__link footer-nav__link" title="home">home</a>
+            </li>
+            <li class="footer-nav__item">
+                <a href="#restaurant" class="nav__link footer-nav__link" title="restaurant">restaurant</a>
+            </li>
+            <li class="footer-nav__item">
+                <a href="#menu" class="nav__link footer-nav__link" title="menu">menu</a>
+            </li>
+            <li class="footer-nav__item">
+                <a href="#" class="nav__link footer-nav__link" title="reservation">reservation</a>
+            </li>
+            <li class="footer-nav__item">
+                <a href="#reservation" class="nav__link footer-nav__link" title="events">events</a>
+            </li>
+            <li class="footer-nav__item">
+                <a href="#contact" class="nav__link footer-nav__link" title="contact">contact</a>
+            </li>
+        </ul>
+    </nav>
+</footer>
+</section>
+<!--/ MAP and FOOTER-->
+</body>
+</html>

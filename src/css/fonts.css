@@ -1,0 +1,53 @@
+/*------RobotoMedium------*/
+@font-face {
+    font-family: 'RobotoMedium';
+    src: url('../fonts/RobotoMedium/RobotoMedium.eot');
+    src: url('../fonts/RobotoMedium/RobotoMedium.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/RobotoMedium/RobotoMedium.woff') format('woff'),
+    url('../fonts/RobotoMedium/RobotoMedium.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+/*------RobotoLight------*/
+@font-face {
+    font-family: 'RobotoLight';
+    src: url('../fonts/RobotoLight/RobotoLight.eot');
+    src: url('../fonts/RobotoLight/RobotoLight.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/RobotoLight/RobotoLight.woff') format('woff'),
+    url('../fonts/RobotoLight/RobotoLight.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+/*------AngelFace------*/
+@font-face {
+    font-family: 'AngelFace';
+    src: url('../fonts/AngelFace/AngelFace.eot');
+    src: url('../fonts/AngelFace/AngelFace.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/AngelFace/AngelFace.woff') format('woff'),
+    url('../fonts/AngelFace/AngelFace.ttf') format('truetype'),
+    url('../fonts/AngelFace/Angelface.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+/*------PinyonScript------*/
+@font-face {
+    font-family: 'PinyonScript';
+    src: url('../fonts/PinyonScript/PinyonScript-Regular.eot');
+    src: url('../fonts/PinyonScript/PinyonScript-Regular.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/PinyonScript/PinyonScript-Regular.woff') format('woff'),
+    url('../fonts/PinyonScript/PinyonScript-Regular.ttf') format('truetype'),
+    url('../fonts/PinyonScript/PinyonScript-Regular.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}
+/*--------Lobster1.4--------*/
+@font-face {
+    font-family: 'Lobster';
+    src: url('../fonts/Lobster/Lobster1.4.eot');
+    src: url('../fonts/Lobster/Lobster1.4.eot?#iefix') format('embedded-opentype'),
+    url('../fonts/Lobster/Lobster1.4.woff') format('woff'),
+    url('../fonts/Lobster/Lobster1.4.ttf') format('truetype'),
+    url('../fonts/Lobster/Lobster1.4.svg') format('svg');
+    font-weight: normal;
+    font-style: normal;
+}

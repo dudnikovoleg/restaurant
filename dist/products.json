@@ -1,0 +1,176 @@
+[
+  {
+    "id": "button__meat",
+    "name": "meat",
+    "composition":"tomatoes,  cucumber,  fresh lettuce,  olives",
+    "newPrice": "25,99",
+    "oldPrice":"29,99",
+    "icon":"images/menu-img/meat-menu.jpg"
+  },
+  {
+    "id": "button__meat",
+    "name": "meat",
+    "composition":"tomatoes,  cucumber,  fresh lettuce,  olives",
+    "newPrice": "25,99",
+    "oldPrice":"29,99",
+    "icon":"images/menu-img/meat-menu.jpg"
+  },
+  {
+    "id": "button__meat",
+    "name": "meat",
+    "composition":"tomatoes,  cucumber,  fresh lettuce,  olives",
+    "newPrice": "25,99",
+    "oldPrice":"29,99",
+    "icon":"images/menu-img/meat-menu.jpg"
+  },
+  {
+    "id": "button__meat",
+    "name": "meat",
+    "composition":"tomatoes,  cucumber,  fresh lettuce,  olives",
+    "newPrice": "25,99",
+    "oldPrice":"29,99",
+    "icon":"images/menu-img/meat-menu.jpg"
+  },
+  {
+    "id": "button__meat",
+    "name": "стейк на кости",
+    "composition":"fresh meat, olive oil, tomatoes",
+    "newPrice": "29,99",
+    "oldPrice":"19,99",
+    "icon":"images/menu-img/meat-menu.jpg"
+  },
+  {
+    "id": "button__meat",
+    "name": "стейк на кости",
+    "composition":"fresh meat, olive oil, tomatoes",
+    "newPrice": "29,99",
+    "oldPrice":"19,99",
+    "icon":"images/menu-img/meat-menu.jpg"
+  },
+  {
+    "id": "button__meat",
+    "name": "стейк на кости",
+    "composition":"fresh meat, olive oil, tomatoes",
+    "newPrice": "29,99",
+    "oldPrice":"19,99",
+    "icon":"images/menu-img/meat-menu.jpg"
+  },
+
+
+  {
+    "id": "button__wines",
+    "name": "wines",
+    "composition":"fresh meat, olive oil, tomatoes",
+    "newPrice": "29,99",
+    "oldPrice":"19,99",
+    "icon":"images/menu-img/wine-menu.jpg"
+  },
+  {
+    "id": "button__wines",
+    "name": "wines",
+    "composition":"fresh meat, olive oil, tomatoes",
+    "newPrice": "29,99",
+    "oldPrice":"19,99",
+    "icon":"images/menu-img/wine-menu.jpg"
+  },
+  {
+    "id": "button__wines",
+    "name": "wines",
+    "composition":"fresh meat, olive oil, tomatoes",
+    "newPrice": "29,99",
+    "oldPrice":"19,99",
+    "icon":"images/menu-img/wine-menu.jpg"
+  },
+  {
+    "id": "button__wines",
+    "name": "wines",
+    "composition":"fresh meat, olive oil, tomatoes",
+    "newPrice": "29,99",
+    "oldPrice":"19,99",
+    "icon":"images/menu-img/wine-menu.jpg"
+  },
+  {
+    "id": "button__wines",
+    "name": "wines",
+    "composition":"fresh meat, olive oil, tomatoes",
+    "newPrice": "29,99",
+    "oldPrice":"19,99",
+    "icon":"images/menu-img/wine-menu.jpg"
+  },
+
+  {
+    "id": "button__wines",
+    "name": "wines",
+    "composition":"fresh meat, olive oil, tomatoes",
+    "newPrice": "29,99",
+    "oldPrice":"19,99",
+    "icon":"images/menu-img/wine-menu.jpg"
+  },
+  {
+    "id": "button__wines",
+    "name": "wines",
+    "composition":"fresh meat, olive oil, tomatoes",
+    "newPrice": "29,99",
+    "oldPrice":"19,99",
+    "icon":"images/menu-img/wine-menu.jpg"
+  },
+
+
+  {
+    "id": "button__beverages",
+    "name": "beverages ",
+    "composition":"fresh meat, olive oil, tomatoes",
+    "newPrice": "29,99",
+    "oldPrice":"19,99",
+    "icon":"images/menu-img/beverages-menu.jpg"
+  },
+  {
+    "id": "button__beverages",
+    "name": "beverages ",
+    "composition":"fresh meat, olive oil, tomatoes",
+    "newPrice": "29,99",
+    "oldPrice":"19,99",
+    "icon":"images/menu-img/beverages-menu.jpg"
+  },
+  {
+    "id": "button__beverages",
+    "name": "beverages ",
+    "composition":"fresh meat, olive oil, tomatoes",
+    "newPrice": "29,99",
+    "oldPrice":"19,99",
+    "icon":"images/menu-img/beverages-menu.jpg"
+  },
+  {
+    "id": "button__beverages",
+    "name": "beverages ",
+    "composition":"fresh meat, olive oil, tomatoes",
+    "newPrice": "29,99",
+    "oldPrice":"19,99",
+    "icon":"images/menu-img/beverages-menu.jpg"
+  },
+  {
+    "id": "button__beverages",
+    "name": "beverages ",
+    "composition":"fresh meat, olive oil, tomatoes",
+    "newPrice": "29,99",
+    "oldPrice":"19,99",
+    "icon":"images/menu-img/beverages-menu.jpg"
+  },
+  {
+    "id": "button__beverages",
+    "name": "beverages ",
+    "composition":"fresh meat, olive oil, tomatoes",
+    "newPrice": "29,99",
+    "oldPrice":"19,99",
+    "icon":"images/menu-img/beverages-menu.jpg"
+  },
+  {
+    "id": "button__beverages",
+    "name": "beverages ",
+    "composition":"fresh meat, olive oil, tomatoes",
+    "newPrice": "29,99",
+    "oldPrice":"19,99",
+    "icon":"images/menu-img/beverages-menu.jpg"
+  }
+
+]
